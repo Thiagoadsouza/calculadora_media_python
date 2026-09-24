@@ -43,4 +43,5 @@ Esse código é essencial para o funcionamento do programa e pode ser executado 
 # Autor e Contato
 
 **Thiago Alberto de Souza**
+<br>
 **Estudante da Cruzeiro do Sul**
