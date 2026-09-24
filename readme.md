@@ -37,7 +37,11 @@ Esse código é essencial para o funcionamento do programa e pode ser executado 
 
 
 # Exemplo de Uso ou Demonstração
-![imag.png](imag.png)
+=== Sistema de Notas do Aluno ===
+Digite a primeira nota: 4
+Digite a segunda nota: 8
+A média final é: 6.00
+Status: REPROVADO.
 
 
 # Autor e Contato
