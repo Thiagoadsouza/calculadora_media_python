@@ -38,9 +38,13 @@ Esse código é essencial para o funcionamento do programa e pode ser executado 
 
 # Exemplo de Uso ou Demonstração
 === Sistema de Notas do Aluno ===
+<br>
 Digite a primeira nota: 4
+<br>
 Digite a segunda nota: 8
+<br>
 A média final é: 6.00
+<br>
 Status: REPROVADO.
 
 
