@@ -37,7 +37,7 @@ Esse código é essencial para o funcionamento do programa e pode ser executado 
 
 
 # Exemplo de Uso ou Demonstração
-![Exemplo](imag.png)
+![imag.png](imag.png)
 
 
 # Autor e Contato
